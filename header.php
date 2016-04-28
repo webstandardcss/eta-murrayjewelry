@@ -11,7 +11,7 @@
 		
 		<script>
 		$(document).ready(function() {
-			$("#myNavbar > ul > li").click(function () {
+			$("#myNavbar > ul > li").hover(function () {
 				$(this).addClass("selected");
 				$(".selected .dropdown").slideDown();
 			},
