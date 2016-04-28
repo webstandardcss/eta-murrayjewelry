@@ -11,7 +11,7 @@
 		
 		<script>
 		$(document).ready(function() {
-			$("#myNavbar2 > ul > li").hover(function () {
+			$("#myNavbar2 > ul > li, #myNavbar > ul > li").hover(function () {
 				$(this).addClass("selected");
 				$(".selected .dropdown").slideDown();
 			},
@@ -42,10 +42,66 @@
 						</div>
 						<div class="collapse navbar-collapse" id="myNavbar">
 							<ul class="">
-								<li class="active"><a href="#">State Appraisal</a></li>
-								<li><a href="#">Insurance Appraisal</a></li>
-								<li><a href="#">Layaway</a></li> 
-								<li><a href="#">Repairs</a></li> 
+								<li class="active"><a href="#"><img src="images/1_0.png" alt="" width="30" /> State Appraisal</a>
+									<div class="dropdown">
+									<div class="container top-menu">
+										<div class="col-sm-3">
+											<img src="images/1_0.png" alt="" />
+										</div>
+										<div class="col-sm-9">
+											<h1>DIAMOND UP TRADE POLICY</h1>
+											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+
+											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+										</div>
+									</div>
+									</div>
+								</li>
+								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Insurance Appraisal</a>
+									<div class="dropdown">
+									<div class="container top-menu">
+										<div class="col-sm-3">
+											<img src="images/1_0.png" alt="" />
+										</div>
+										<div class="col-sm-9">
+											<h1>DIAMOND UP TRADE POLICY</h1>
+											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+
+											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+										</div>
+									</div>
+									</div>
+								</li>
+								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Layaway</a>
+									<div class="dropdown">
+									<div class="container top-menu">
+										<div class="col-sm-3">
+											<img src="images/1_0.png" alt="" />
+										</div>
+										<div class="col-sm-9">
+											<h1>DIAMOND UP TRADE POLICY</h1>
+											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+
+											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+										</div>
+									</div>
+									</div>
+								</li> 
+								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Repairs</a>
+									<div class="dropdown">
+									<div class="container top-menu">
+										<div class="col-sm-3">
+											<img src="images/1_0.png" alt="" />
+										</div>
+										<div class="col-sm-9">
+											<h1>DIAMOND UP TRADE POLICY</h1>
+											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+
+											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+										</div>
+									</div>
+									</div>
+								</li> 
 							</ul>
 						</div>
 					</div>

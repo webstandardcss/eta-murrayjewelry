@@ -97,6 +97,15 @@ li {
 	font-family: Arial;
 }
 
+.top-menu {
+	padding-top: 27px;
+	text-align: left;
+}
+
+.top-menu p {
+	color: #000;
+}
+
 .logo {
 	margin-top: 30px;
 }
@@ -275,6 +284,10 @@ li {
 	.navbar .dropdown a {
 		font-size: 15px;
 		font-family: 'Times new roman';
+	}
+
+	.top-header nav {
+		display: none;
 	}
 }
 
