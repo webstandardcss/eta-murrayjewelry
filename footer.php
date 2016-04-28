@@ -15,9 +15,6 @@
 				<article class="each-footer col-sm-3">
 				<!-- Each Column Starts -->
 				
-					<h3>Murray Jewelry Address</h3>
-					<p>2320 Judson Rd<br />
-					Longview, Texas</p>
 				
 				<!-- Each Column Ends -->
 				</article>
@@ -35,9 +32,8 @@
 				<article class="each-footer col-sm-3">
 				<!-- Each Column Starts -->
 				
-					<h3>Murray Jewelry Address</h3>
-					<p>2320 Judson Rd<br />
-					Longview, Texas</p>
+					<h3>Certified Member</h3>
+					<p>We are certified members of the "American Gem Society"</p>
 				
 				<!-- Each Column Ends -->
 				</article>
@@ -45,9 +41,6 @@
 				<article class="each-footer col-sm-3">
 				<!-- Each Column Starts -->
 				
-					<h3>Murray Jewelry Address</h3>
-					<p>2320 Judson Rd<br />
-					Longview, Texas</p>
 				
 				<!-- Each Column Ends -->
 				</article>
@@ -57,7 +50,9 @@
 			</section>
 		
 			<article class="footer-bottom">
-				MURRAY JEWELRY | 2320 JUDSON ROAD LONGVIEW, TEXAS 75604 - 903 753-7133 | WE ARE CERTIFIED MEMEBERS OF THE "AMERICAN GEM SOCIETY" | WEB DESIGN BY WEB STANDARD CSS 
+				Murray Jewelry &mdash; 
+<a href=“tel:903-753-7133” style="color: #fff;" title=“Call Murray Jewelry” rel="generator">903-753-7133</a>  &mdash; 
+<a href="http://rkvideo.tv/" style="color: #fff;" title="Design by RK Productions" rel="generator">Design by RK Productions</a>
 			</article>
 		
 		<!-- Footer Ends -->
