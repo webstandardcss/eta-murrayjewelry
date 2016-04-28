@@ -68,33 +68,26 @@ li {
 
 .navbar .dropdown {
 	position: absolute;
-	width: 100%;
-	left: 0;
-	background: rgba(255, 255, 255, 0.6);
+	width: calc(100% + 2px);
+	left: -1px;
+	background: #9b9b9b;
 	display: none;
+	margin-top: 2px;
 }
 
 .navbar .dropdown li {
-	display: block;
 	text-align: left;
 	padding: 0;
 }
 
 .navbar .dropdown ul {
 	padding: 0 !important;
-	margin-left: -20 !important;
+	margin-bottom: -12px;
 }
 
 .navbar .dropdown h1 {
 	color: #000 !important;
 	text-align: left;
-}
-
-.navbar .dropdown a {
-	font-size: 18px;
-	line-height: 18px;
-	text-align: left;
-	font-family: Arial;
 }
 
 .top-menu {
@@ -286,7 +279,7 @@ li {
 		font-family: 'Times new roman';
 	}
 
-	.top-header nav {
+	.tp {
 		display: none;
 	}
 }

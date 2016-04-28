@@ -11,13 +11,24 @@
 		
 		<script>
 		$(document).ready(function() {
-			$("#myNavbar2 > ul > li, #myNavbar > ul > li").hover(function () {
+			$("#myNavbar > ul > li").click(function () {
 				$(this).addClass("selected");
 				$(".selected .dropdown").slideDown();
 			},
 			function () {
 				$(".selected .dropdown").slideUp();
 				$(this).removeClass("selected");
+			});
+			$("#myNavbar2 > ul > li.d").click(function () {
+				if ($(this).hasClass("selected")) {
+					$(".selected .dropdown").slideUp();
+				} else {
+					$(".selected .dropdown").slideUp();
+					$("#myNavbar2 > ul > li.d").removeClass("selected");
+					$(this).addClass("selected");
+					$(".selected .dropdown").slideDown();
+				}
+				return false;
 			});
 		});
 		</script>
@@ -31,7 +42,7 @@
 			<article class="top-header">
 			<!-- Top Header Starts -->
 			
-				<nav class="navbar">
+				<nav class="navbar tp">
 					<div class="container-fluid">
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -147,60 +158,54 @@
 						</div>
 						<div class="collapse navbar-collapse" id="myNavbar2">
 							<ul class="">
-								<li class="active"><a href="#">Home</a></li>
-								<li><a href="#">Watches</a>
+								<li class="active"><a href="index">Home</a></li>
+								<li><a href="rolex">Rolex</a></li>
+								<li class="d"><a href="watches">Watches</a>
 									<div class="dropdown">
-										<div class="col-sm-3">
-											<h1>Engagement Rings</h1>
-											<ul>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-											</ul>
-										</div>
-										<div class="col-sm-3">
-											<h1>Engagement Rings</h1>
-											<ul>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-											</ul>
-										</div>
-										<div class="col-sm-3">
-											<h1>Engagement Rings</h1>
-											<ul>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-											</ul>
-										</div>
-										<div class="col-sm-3">
-											<h1>Engagement Rings</h1>
-											<ul>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-												<li><a href="#">Princess Cut Rings  </a></li>
-												<li><a href="#">Round Cut Rings     </a></li>
-											</ul>
-										</div>
-										<div class="clearfix"></div>
+										<ul>
+											<li><a href="watches">Watches         </a></li>
+											<li><a href="belair">Belair         </a></li>
+											<li><a href="reactor">Reactor        </a></li>
+											<li><a href="seiko">Seiko          </a></li>
+											<li><a href="vintage-watches">Vintage Watches</a></li>
+										</ul>
 									</div>
 								</li>
-								<li><a href="#">Layaway</a></li> 
-								<li><a href="#">Diamond Search</a></li> 
-								<li><a href="#">Jewelry</a></li> 
-								<li><a href="#">About Us</a></li> 
+								<li><a href="diamond-search">Diamond Search</a></li> 
+								<li class="d"><a href="jewelry">Jewelry</a>
+									<div class="dropdown">
+										<ul>
+											<li><a href="jewelry">Jewelry</a></li>
+											<li><a href="bellari">Bellarri</a></li>
+											<li><a href="charles-krypell">Charles Krypell        </a></li>
+											<li><a href="costar-imports">Costar Imports          </a></li>
+											<li><a href="pandora-jewelry">Pandora Jewelry</a></li>
+											<li><a href="ziva-jewels">Ziva Jewels</a></li>
+										</ul>
+									</div>
+								</li> 
+								<li class="d"><a href="services">Services</a>
+									<div class="dropdown">
+										<ul>
+											<li><a href="services">Services</a></li>
+											<li><a href="estate-appraisals">Estate Appraisals</a></li>
+											<li><a href="insurance-appraisal">Insurance Appraisal</a></li>
+											<li><a href="layaway">Layaway</a></li>
+											<li><a href="repairs">Repairs</a></li>
+											<li><a href="stone-setting">Stone Setting</a></li>
+										</ul>
+									</div>
+								</li> 
+								<li class="d"><a href="about-us">About Us</a>
+									<div class="dropdown">
+										<ul>
+											<li><a href="about-us">About Us</a></li>
+											<li><a href="location">Location</a></li>
+											<li><a href="site-map">Site Map</a></li>
+											<li><a href="contact-us">Contact Us</a></li>
+										</ul>
+									</div>
+								</li> 
 								<li><a href="#">News & Updates</a></li> 
 							</ul>
 						</div>
