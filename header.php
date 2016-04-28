@@ -22,6 +22,7 @@
 			$("#myNavbar2 > ul > li.d").click(function () {
 				if ($(this).hasClass("selected")) {
 					$(".selected .dropdown").slideUp();
+					$("#myNavbar2 > ul > li.d").removeClass("selected");
 				} else {
 					$(".selected .dropdown").slideUp();
 					$("#myNavbar2 > ul > li.d").removeClass("selected");
