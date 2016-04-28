@@ -11,22 +11,26 @@
 		
 		<script>
 		$(document).ready(function() {
-			$("#myNavbar > ul > li").hover(function () {
-				$(this).addClass("selected");
-				$(".selected .dropdown").slideDown();
-			},
-			function () {
-				$(".selected .dropdown").slideUp();
-				$(this).removeClass("selected");
-			});
-			$("#myNavbar2 > ul > li.d").click(function () {
+			$("#myNavbar > ul > li").click(function () {
 				if ($(this).hasClass("selected")) {
+					$(".selected .dropdown").slideUp();
+					$("#myNavbar > ul > li.d").removeClass("selected");
+				} else {
+					$(".selected .dropdown").slideUp();
+					$("#myNavbar > ul > li.d").removeClass("selected");
+					$(this).addClass("selected");
+					$(".selected .dropdown").slideDown();
+				}
+				return false;
+			});
+			$("#myNavbar2 > ul > li.d > a").click(function () {
+				if ($(this).parent().hasClass("selected")) {
 					$(".selected .dropdown").slideUp();
 					$("#myNavbar2 > ul > li.d").removeClass("selected");
 				} else {
 					$(".selected .dropdown").slideUp();
 					$("#myNavbar2 > ul > li.d").removeClass("selected");
-					$(this).addClass("selected");
+					$(this).parent().addClass("selected");
 					$(".selected .dropdown").slideDown();
 				}
 				return false;
