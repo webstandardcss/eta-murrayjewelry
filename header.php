@@ -65,71 +65,71 @@
 											<img src="images/1_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-            <h1>Estate Appraisals</h2>
-            
-            <p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
+											<h1>Estate Appraisals</h2>
+											
+											<p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
-            <p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
-            
-            <p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
+											<p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
+											
+											<p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
 
 										</div>
 									</div>
 									</div>
 								</li>
-								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Insurance Appraisal</a>
+								<li><a href="#"><img src="images/3_0.png" alt="" width="30" /> Insurance Appraisal</a>
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/1_0.png" alt="" />
+											<img src="images/3_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
         
-            <h1>Insurance Appraisal</h2>
-            
-            <p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
+											<h1>Insurance Appraisal</h2>
+											
+											<p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
-            <p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
-            
-            <p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
+											<p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
+											
+											<p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
             
             
 										</div>
 									</div>
 									</div>
 								</li>
-								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Layaway</a>
+								<li><a href="#"><img src="images/4_0.png" alt="" width="30" /> Layaway</a>
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/1_0.png" alt="" />
+											<img src="images/4_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-<h1>Our Layaway Services</h1>
+											<h1>Our Layaway Services</h1>
 
-<p>Murray Jewelry offers Layaway for In-Store Merchandise.</p>
+											<p>Murray Jewelry offers Layaway for In-Store Merchandise.</p>
 
-<p>We make it easy for you to get that special item.</p>
+											<p>We make it easy for you to get that special item.</p>
 
-<p>Layaway an item for up to One Year <a href="layaway">More info&hellip;</a></p>
+											<p>Layaway an item for up to One Year <a href="layaway">More info&hellip;</a></p>
 										</div>
 									</div>
 									</div>
 								</li> 
-								<li><a href="#"><img src="images/1_0.png" alt="" width="30" /> Repairs</a>
+								<li><a href="#"><img src="images/9_0.png" alt="" width="30" /> Repairs</a>
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/1_0.png" alt="" />
+											<img src="images/9_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-<h1>Jewelry and Watch Repair</h1>
+											<h1>Jewelry and Watch Repair</h1>
 
-<p>Murray Jewelry performs nearly all repairs and stones settings in-house, with over 50 years of experience. We can provide you with a quote BEFORE the repair is started.</p>
+											<p>Murray Jewelry performs nearly all repairs and stones settings in-house, with over 50 years of experience. We can provide you with a quote BEFORE the repair is started.</p>
 
-<p>Your property is safe while in our care with state-of-the-art security, safes, locks and surveillance at our store location.</p>
+											<p>Your property is safe while in our care with state-of-the-art security, safes, locks and surveillance at our store location.</p>
 
-<p>Allen Wagner is our resident stone setter, and watch and jewelry technician. We provide all facets of jewelry repair, from sterling silver to platinum.</p>
+											<p>Allen Wagner is our resident stone setter, and watch and jewelry technician. We provide all facets of jewelry repair, from sterling silver to platinum.</p>
 										</div>
 									</div>
 									</div>
