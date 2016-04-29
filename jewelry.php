@@ -13,7 +13,7 @@
 			<p>Murray Jewelry would love the opportunity to guide you through the buying process and provide you very competitive pricing in a local setting.</p>
 
 			<p>As well, we carry an extensive selection of popular jewelry design lines, including:</p>
-			<ul>
+			<ul class="narrow-list">
 				<li>Bellarri</li>
 				<li>Charles Krypell</li>
 				<li>Pandora Jewelry</li>
