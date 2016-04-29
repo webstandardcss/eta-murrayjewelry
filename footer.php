@@ -2,10 +2,10 @@
 		<!-- Footer Starts -->
 		
 			<article class="footer-top">
-				<a href="#" target="_blank"><img src="images/icon-fb-b.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-tw-b.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-u-b.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-pin-b.png" /></a>
+                                <a href="https://www.facebook.com/murrayjewelrycompany" target="_blank"><img src="images/icon-fb-b.png" /></a>
+                                <a href="https://twitter.com/MurrayJewelry" target="_blank"><img src="images/icon-tw-b.png" /></a>
+                                <a href="https://www.youtube.com/watch?v=jPGJnK6MSZE" target="_blank"><img src="images/icon-u-b.png" /></a>
+                                <!-- a href="#" target="_blank"><img src="images/icon-pin-b.png" /></a -->
 			</article>
 			
 			<section class="footer-contents container">

@@ -147,9 +147,9 @@
 			<article class="call col-sm-3">
 				<span>CALL US NOW!</span><br />
 				<a href="tel:9037537133">903-753-7133</a><br />
-				<a href="#" target="_blank"><img src="images/icon-fb.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-tw.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-u.png" /></a>
+				<a href="https://www.facebook.com/murrayjewelrycompany" target="_blank"><img src="images/icon-fb.png" /></a>
+				<a href="https://twitter.com/MurrayJewelry" target="_blank"><img src="images/icon-tw.png" /></a>
+				<a href="https://www.youtube.com/watch?v=jPGJnK6MSZE" target="_blank"><img src="images/icon-u.png" /></a>
 				<a href="#" target="_blank"><img src="images/icon-pin.png" /></a>
 			</article>
 		
