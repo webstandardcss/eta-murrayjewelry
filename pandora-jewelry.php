@@ -10,7 +10,7 @@
 		
 			<h2 class="text-center">Pandora Jewelry</h2>
 			
-			<p>Pandora is an exciting and fascinating series of jewelry which, lust like Pandora’s box, opens up countless opportunities. You design your bracelet yourself, so that it expresses your very own style and your unforgettable moments. The Pandora series is a Danish design and is made of sterling silver and 14K gold. Murray Jewelry carries an extensive selection of Pandora, so you may creatively express yourself. Click <a href="http://www.pandora.net/en-us" target="_blank">here</a> to start your Pandora Wishlist today!</p>
+			<p>Pandora is an exciting and fascinating series of jewelry which, lust like Pandora&rsquo;s box, opens up countless opportunities. You design your bracelet yourself, so that it expresses your very own style and your unforgettable moments. The Pandora series is a Danish design and is made of sterling silver and 14K gold. Murray Jewelry carries an extensive selection of Pandora, so you may creatively express yourself. Click <a href="http://www.pandora.net/en-us" target="_blank">here</a> to start your Pandora Wishlist today!</p>
 			
 			<img src="images/Timeline-Eng_Disney4.jpg" class="img-responsive img-fix" />
 			

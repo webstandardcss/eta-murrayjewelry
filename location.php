@@ -5,10 +5,10 @@
 		<!-- Main Contents Starts -->
 		
 			<h2 class="text-center">Location</h2>
-			<h2 class="text-center">MURRAY JEWELRY’s SHOWROOM LOCATION</h2>
+			<h2 class="text-center">MURRAY JEWELRY&rsquo;s SHOWROOM LOCATION</h2>
 			
 			<p>2320 Judson Road<br />
-Longview, Texas 75605n. </p>
+Longview, Texas 75605 </p>
 			<br />
 			
 			<div class="text-center">

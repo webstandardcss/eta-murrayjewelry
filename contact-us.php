@@ -7,7 +7,7 @@
 			<h2 class="text-center">Contact Us</h2>
 			<h1 class="text-center">Our hours of operation are:</h1>
 			
-			<p>Monday – Friday 10:00 am to 6:00 pm<br />
+			<p>Monday &mdash; Friday 10:00 am to 6:00 pm<br />
 
 and Saturday by appointment only.<br />
 

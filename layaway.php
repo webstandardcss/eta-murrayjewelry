@@ -16,7 +16,7 @@ With 10% Payment per Month</p>
 			
 			<p>* Sorry, No Cash Refunds on Layaways.</p>
 			
-			<p>Don’t Know What to Get??<br />
+			<p>Don&rsquo;t Know What to Get??<br />
 Murray Jewelry also offers Gift Certificates.<br />
 You Spend What You Want and They Select Exactly the Gift They Want!</p>
 			

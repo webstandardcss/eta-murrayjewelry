@@ -8,7 +8,7 @@
 		
 			<h2 class="text-center">Watches</h2>
 			
-			<p>Murray Jewelry offers several line of watches to fit every lifestyle whether it’s our own line of Murray watches made by Belair, or our Seiko and Reactor lines.</p>
+			<p>Murray Jewelry offers several line of watches to fit every lifestyle whether it&rsquo;s our own line of Murray watches made by Belair, or our Seiko and Reactor lines.</p>
 			
 		<!-- Main Contents Ends -->
 		</div>

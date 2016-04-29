@@ -58,7 +58,7 @@
 						</div>
 						<div class="collapse navbar-collapse" id="myNavbar">
 							<ul class="">
-								<li class="active"><a href="#"><img src="images/1_0.png" alt="" width="30" /> State Appraisal</a>
+								<li class="active"><a href="#"><img src="images/1_0.png" alt="" width="30" /> Estate Appraisal</a>
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
