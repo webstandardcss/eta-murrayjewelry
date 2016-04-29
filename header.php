@@ -13,25 +13,25 @@
 		$(document).ready(function() {
 			$("#myNavbar > ul > li").click(function () {
 				if ($(this).hasClass("selected")) {
-					$(".selected .dropdown").slideUp();
+					$("#myNavbar .selected .dropdown").slideUp();
 					$("#myNavbar > ul > li.d").removeClass("selected");
 				} else {
-					$(".selected .dropdown").slideUp();
+					$("#myNavbar .selected .dropdown").slideUp();
 					$("#myNavbar > ul > li.d").removeClass("selected");
 					$(this).addClass("selected");
-					$(".selected .dropdown").slideDown();
+					$("#myNavbar .selected .dropdown").slideDown();
 				}
 				return false;
 			});
 			$("#myNavbar2 > ul > li.d > a").click(function () {
 				if ($(this).parent().hasClass("selected")) {
-					$(".selected .dropdown").slideUp();
+					$("#myNavbar2 .selected .dropdown").slideUp();
 					$("#myNavbar2 > ul > li.d").removeClass("selected");
 				} else {
-					$(".selected .dropdown").slideUp();
+					$("#myNavbar2 .selected .dropdown").slideUp();
 					$("#myNavbar2 > ul > li.d").removeClass("selected");
 					$(this).parent().addClass("selected");
-					$(".selected .dropdown").slideDown();
+					$("#myNavbar2 .selected .dropdown").slideDown();
 				}
 				return false;
 			});
