@@ -250,7 +250,7 @@
 										</ul>
 									</div>
 								</li> 
-								<li><a href="#">News & Updates</a></li> 
+								<li><a href="/blog">News & Updates</a></li> 
 							</ul>
 						</div>
 					</div>
