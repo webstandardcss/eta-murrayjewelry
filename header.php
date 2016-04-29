@@ -154,11 +154,34 @@
 			</article>
 		
 			<article class="logo col-sm-6">
-				<img src="images/logo.png" class="img-responsive" />
+				<a href="index.php"><img src="images/logo.png" class="img-responsive" /></a>
 			</article>
 			
 			<article class="ad col-sm-3 text-center">
-				<img src="images/rolex-img.png" />
+				<!-- img src="images/rolex-img.png" /-->
+<div id="cobranding" style="position: relative; top: -12px; right:0 "></div>
+    
+<script src="https://binary.rolex.com/dealer/cobranding.js" type="text/javascript"></script>
+    
+<script type="text/javascript" charset="utf-8">
+    var rdp = new CoBranding();
+    var rdpConfig = {
+        dealerAPIKey: '5522dd97f381db8d6d4899054b7e79b7',
+        domain: 'www.murrayjewelry.com',
+        lang: 'en_jeweler',
+        shortLang: 'EN',
+        width: '125', 
+        height: '125', 
+        colour: 'white',
+        brand: 'rolex',
+        nw: '0',  
+        format: 'h'
+    }
+    try {
+        rdp.getCoBranding(rdpConfig,'plaque/validate_dealer.rlx');
+    } catch(err) {}
+</script>
+    
 			</article>
 			
 			<div class="clearfix"></div>
