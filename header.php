@@ -65,10 +65,14 @@
 											<img src="images/1_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-											<h1>DIAMOND UP TRADE POLICY</h1>
-											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+            <h1>Estate Appraisals</h2>
+            
+            <p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
-											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+            <p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
+            
+            <p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
+
 										</div>
 									</div>
 									</div>
@@ -80,10 +84,16 @@
 											<img src="images/1_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-											<h1>DIAMOND UP TRADE POLICY</h1>
-											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+        
+            <h1>Insurance Appraisal</h2>
+            
+            <p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
-											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+            <p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
+            
+            <p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
+            
+            
 										</div>
 									</div>
 									</div>
@@ -95,10 +105,13 @@
 											<img src="images/1_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-											<h1>DIAMOND UP TRADE POLICY</h1>
-											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+<h1>Our Layaway Services</h1>
 
-											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+<p>Murray Jewelry offers Layaway for In-Store Merchandise.</p>
+
+<p>We make it easy for you to get that special item.</p>
+
+<p>Layaway an item for up to One Year <a href="layaway">More info&hellip;</a></p>
 										</div>
 									</div>
 									</div>
@@ -110,10 +123,13 @@
 											<img src="images/1_0.png" alt="" />
 										</div>
 										<div class="col-sm-9">
-											<h1>DIAMOND UP TRADE POLICY</h1>
-											<p>Mitchum Jewelers offers a Dollar for Dollar trade towards any Loose Diamond or Solitaire Diamond Jewelry purchased from our store. The Diamond Up Trade policy is only guaranteed to the original purchaser of the Diamond, and must be accompanied with an original receipt. </p>
+<h1>Jewelry and Watch Repair</h1>
 
-											<p>Example: Purchase a 1/2ct Diamond for $2000.00 and five years later you would like to upgrade to a 1.00ct priced at $6500.00. The customer would be responsible for paying the difference in cost of $4500.00 +tx. </p>
+<p>Murray Jewelry performs nearly all repairs and stones settings in-house, with over 50 years of experience. We can provide you with a quote BEFORE the repair is started.</p>
+
+<p>Your property is safe while in our care with state-of-the-art security, safes, locks and surveillance at our store location.</p>
+
+<p>Allen Wagner is our resident stone setter, and watch and jewelry technician. We provide all facets of jewelry repair, from sterling silver to platinum.</p>
 										</div>
 									</div>
 									</div>
@@ -130,7 +146,7 @@
 			
 			<article class="call col-sm-3">
 				<span>CALL US NOW!</span><br />
-				<a href="#">903-753-7133</a><br />
+				<a href="tel:9037537133">903-753-7133</a><br />
 				<a href="#" target="_blank"><img src="images/icon-fb.png" /></a>
 				<a href="#" target="_blank"><img src="images/icon-tw.png" /></a>
 				<a href="#" target="_blank"><img src="images/icon-u.png" /></a>
@@ -168,7 +184,7 @@
 								<li class="d"><a href="watches">Watches</a>
 									<div class="dropdown">
 										<ul>
-											<li><a href="watches">Watches         </a></li>
+											<li><a href="watches"><strong>Watches</strong>         </a></li>
 											<li><a href="belair">Belair         </a></li>
 											<li><a href="reactor">Reactor        </a></li>
 											<li><a href="seiko">Seiko          </a></li>
@@ -180,7 +196,7 @@
 								<li class="d"><a href="jewelry">Jewelry</a>
 									<div class="dropdown">
 										<ul>
-											<li><a href="jewelry">Jewelry</a></li>
+											<li><a href="jewelry"><strong>Jewelry</strong></a></li>
 											<li><a href="bellari">Bellarri</a></li>
 											<li><a href="charles-krypell">Charles Krypell        </a></li>
 											<li><a href="costar-imports">Costar Imports          </a></li>
@@ -192,7 +208,7 @@
 								<li class="d"><a href="services">Services</a>
 									<div class="dropdown">
 										<ul>
-											<li><a href="services">Services</a></li>
+											<li><a href="services"><strong>Services</strong></a></li>
 											<li><a href="estate-appraisals">Estate Appraisals</a></li>
 											<li><a href="insurance-appraisal">Insurance Appraisal</a></li>
 											<li><a href="layaway">Layaway</a></li>
@@ -204,7 +220,7 @@
 								<li class="d"><a href="about-us">About Us</a>
 									<div class="dropdown">
 										<ul>
-											<li><a href="about-us">About Us</a></li>
+											<li><a href="about-us"><strong>About Us</strong></a></li>
 											<li><a href="location">Location</a></li>
 											<li><a href="site-map">Site Map</a></li>
 											<li><a href="contact-us">Contact Us</a></li>

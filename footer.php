@@ -33,7 +33,7 @@
 				<!-- Each Column Starts -->
 				
 					<h3>Certified Member</h3>
-					<p>We are certified members of the "American Gem Society"</p>
+					<p>We are certified members of the &ldquo;American Gem Society&rdquo;</p>
 				
 				<!-- Each Column Ends -->
 				</article>
