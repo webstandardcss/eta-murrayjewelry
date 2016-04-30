@@ -60,7 +60,6 @@ li {
 	list-style: none;
 	display: inline-block;
 }
-
 .top-header .navbar a {
 	color: #000;
 	font-size: 24px;
@@ -68,6 +67,16 @@ li {
 	line-height: 50px;
 	padding: 0 20px;
 	text-decoration: none;
+}
+
+.top-header .navbar .col-sm-9 a {
+	color: #00f;
+	font-size: 14px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	line-height: normal;
+	padding: 0;
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 .navbar .dropdown {
