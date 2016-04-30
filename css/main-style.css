@@ -221,6 +221,25 @@ li {
 		padding: 0 10px;
 		font-size: 17px;
 	}
+
+	.top-header {
+		padding-top: 0px;
+	}
+
+	.top-header .dropdown  {
+		padding-bottom: 30px;
+		height: auto;
+		z-index: 1000000;
+		position: absolute;
+	}
+
+	.top-header .dropdown img {
+		margin-top: -20px;
+	}
+
+	.top-header .dropdown h1  {
+		margin-top: -25px;
+	}
 }
 
 @media only screen and (max-width: 768px) {

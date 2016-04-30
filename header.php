@@ -14,10 +14,10 @@
 			$("#myNavbar > ul > li").click(function () {
 				if ($(this).hasClass("selected")) {
 					$("#myNavbar .selected .dropdown").slideUp();
-					$("#myNavbar > ul > li.d").removeClass("selected");
+					$("#myNavbar > ul > li").removeClass("selected");
 				} else {
 					$("#myNavbar .selected .dropdown").slideUp();
-					$("#myNavbar > ul > li.d").removeClass("selected");
+					$("#myNavbar > ul > li").removeClass("selected");
 					$(this).addClass("selected");
 					$("#myNavbar .selected .dropdown").slideDown();
 				}
@@ -62,10 +62,10 @@
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/1_0.png" alt="" />
+											<img src="images/1_0.png" width="100%" alt="" />
 										</div>
 										<div class="col-sm-9">
-											<h1>Estate Appraisals</h2>
+											<h1>Estate Appraisals</h1>
 											
 											<p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
@@ -81,11 +81,11 @@
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/3_0.png" alt="" />
+											<img src="images/3_0.png" width="100%" alt="" />
 										</div>
 										<div class="col-sm-9">
         
-											<h1>Insurance Appraisal</h2>
+											<h1>Insurance Appraisal</h1>
 											
 											<p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
@@ -102,7 +102,7 @@
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/4_0.png" alt="" />
+											<img src="images/4_0.png" width="100%" alt="" />
 										</div>
 										<div class="col-sm-9">
 											<h1>Our Layaway Services</h1>
@@ -120,7 +120,7 @@
 									<div class="dropdown">
 									<div class="container top-menu">
 										<div class="col-sm-3">
-											<img src="images/9_0.png" alt="" />
+											<img src="images/9_0.png" width="100%" alt="" />
 										</div>
 										<div class="col-sm-9">
 											<h1>Jewelry and Watch Repair</h1>
