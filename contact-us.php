@@ -7,11 +7,11 @@
 			<h2 class="text-center">Contact Us</h2>
 			<h1 class="text-center">Our hours of operation are:</h1>
 			
-			<p>Monday &mdash; Friday 10:00 am to 6:00 pm<br />
+			<p class="narrow-list" style="width: 260px">Monday &mdash; Friday 10:00 am to 6:00 pm<br />
 
 and Saturday by appointment only.<br />
 
-Call us at (903) 753-7133</p>
+Call us at <a href="9037537133">(903) 753-7133</a></p>
 			
 			
 		<!-- Main Contents Ends -->

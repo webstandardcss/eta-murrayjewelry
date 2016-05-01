@@ -4,10 +4,9 @@
 		<div class="3">
 		<!-- Main Contents Starts -->
 		
-			<h2 class="text-center">Location</h2>
-			<h2 class="text-center">MURRAY JEWELRY&rsquo;s SHOWROOM LOCATION</h2>
+			<h2 class="text-center">Murray Jewelry&rsquo;s Showroom</h2>
 			
-			<p>2320 Judson Road<br />
+			<p class="narrow-list">2320 Judson Road<br />
 Longview, Texas 75605 </p>
 			<br />
 			
