@@ -203,9 +203,31 @@ li {
 	.top-header .navbar a {
 		font-size: 19px;
 	}
+
+	.logo {
+		margin-top: 55px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.call img {
+		width: 30px;
+	}
+
+	.call a {
+		font-size: 19px;
+	}
+
+	.call span {
+		margin-left: 16px;
+	}
 }
 
 @media only screen and (max-width: 985px) {
+	.logo {
+		margin-top: 45px;
+	}
+	
 	.call a {
 		font-size: 20px;
 	}
@@ -216,10 +238,15 @@ li {
 
 	.call span {
 		margin-left: 13px;
+		margin-top: 5px;
 	}
 
 	.call {
 		margin-top: 40px;	
+	}
+	.ad {
+		padding-top: 9px;
+		margin-bottom: -15px;
 	}
 
 	.ad img {
@@ -265,6 +292,10 @@ li {
 
 	.call a {
 		text-align: center;
+	}
+	
+	.logo {
+		margin-top: 10px;
 	}
 
 	.navbar-toggle {
