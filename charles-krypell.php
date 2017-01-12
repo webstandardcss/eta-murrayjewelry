@@ -9,10 +9,8 @@
 			</div>
 		
 			<h2 class="text-center">Charles Krypell</h2>
-			
-			<p>It's not surprising that Charles Krypell was a sculptor before he became an internationally renowned jewelry designer. Looking at his exquisite, perfectly balanced jewelry, it's clear that one artistic craft flows seamlessly into the other.</p>
-
-			<blockquote>
+						<p>It&rsquo;s not surprising that Charles Krypell was a sculptor before he became an internationally renowned jewelry designer. In his exquisite, perfectly balanced jewelry, it&rsquo;s clear that one artistic craft flows seamlessly into the other.</p>			
+							<blockquote>
 			<p>&ldquo;I create jewelry like I would a film set: with mood, drama, and my customers wear the jewelry like actresses.&rdquo;</p>
 			<p> &ldquo;When I design jewelry I think of women as film stars. I want them to be observed, envied, and admired.&rdquo;</p>
 			</blockquote>

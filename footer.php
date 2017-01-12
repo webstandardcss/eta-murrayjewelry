@@ -33,7 +33,7 @@
 				<!-- Each Column Starts -->
 				
 					<h3>Certified Member</h3>
-					<p>We are certified members of the &ldquo;American Gem Society&rdquo;</p>
+													<p><a href="/about-us">We are Certified Members of the "American Gem Society".</a></p>
 				
 				<!-- Each Column Ends -->
 				</article>
@@ -52,11 +52,19 @@
 			<article class="footer-bottom">
 				Murray Jewelry &mdash; 
 <a href=“tel:903-753-7133” style="color: #fff;" title=“Call Murray Jewelry” rel="generator">903-753-7133</a>  &mdash; 
-<a href="http://rkvideo.tv/" style="color: #fff;" title="Design by RK Productions" rel="generator">Design by RK Productions</a>
+<a href="http://rkvideo.tv/" style="color: #fff;" title="Design by RK Productions" rel="generator">Design by RK Productions</a> &mdash; <a href="/site-map" style="color: #fff;" title="Murray Jewelry Site Map" rel="generator">Site Map</a>
 			</article>
 		
 		<!-- Footer Ends -->
 		</footer>
-	
+		<script type="text/javascript">
+			!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+
+			pintrk('load','2618243687202');
+			pintrk('page', {
+			page_name: 'My Page',
+			page_category: 'My Page Category'
+			});
+		</script>
 	</body>
 </html>

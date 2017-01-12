@@ -10,9 +10,7 @@
 		
 			<h2 class="text-center">Seiko</h2>
 			
-			<p>&ldquo;It's your watch that tells most about who you are.&rdquo; In 1881, Kintaro Hattori laid the foundation for the beginnings of the Seiko Company that we know today. In 1924, the Seiko brand wristwatch was born and world rekown for it accuracy and craftmanship. Throughout the decades, the company concentrated on developing innovative solutions to competitive challenges.</p>
-
-			<p>Seiko continues to live up to their name as being one of the best Japanese timepieces, producing new and more technological watches year after year. From Kinetic to Perpetual calendar watches, Seiko has delivered watches to a new era.</p>
+			<p>&ldquo;It's your watch that tells most about who you are.&ldquo; In 1881, Kintaro Hattori laid the foundation for the Seiko Company that we know today. The Seiko wristwatch was born in 1924 and soon was world-renowned for its accuracy and craftsmanship. Seiko maintains that reputation for developing innovative solutions to competitive challenges and makes some of the best and most technologically-advanced of the Japanese timepieces.</p>
 			
 			<img src="images/seiko.gif" class="img-responsive img-fix" style="width: 200px" />
 			

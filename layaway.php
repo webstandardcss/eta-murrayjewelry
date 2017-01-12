@@ -4,16 +4,10 @@
 		<div class="3">
 		<!-- Main Contents Starts -->
 		
-			<h2 class="text-center">Layaway</h2>
-			<h1 class="text-center">OUR LAYAWAY SERVICES</h1>
+			<h2 class="text-center">Layaway</h2>			
+			<p>Lay-away for in-store merchandise.</p>			<p>Pay only 20% down to lay-away an item for up to 1 year with a 10% payment per month</p>			<p>* Sorry, NO cash refunds on layaways.</p>
 			
-			<p>Murray Jewelry offers Layaway for In-Store Merchandise. We make it easy for you to get that special item.</p>
-
-			<p>Layaway an item for up to One Year; Pay only 20% Down With 10% Payment per Month</p>
-			
-			<ul><li>Sorry, No Cash Refunds on Layaways.</li></ul>
-			
-			<p>Don&rsquo;t Know What to Get? Murray Jewelry also offers Gift Certificates. You Spend What You Want and They Select Exactly the Gift They Want!</p>
+			<p>Don&rsquo;t Know what to get? Murray Jewelry also offers gift certificates. You spend what you want and they select exactly the gift they want!</p>
 			
 			
 		<!-- Main Contents Ends -->

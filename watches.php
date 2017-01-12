@@ -7,8 +7,18 @@
 			<img src="images/Seiko.jpg" class="img-responsive" width="100%" />
 		
 			<h2 class="text-center">Watches</h2>
-			
-			<p>Murray Jewelry offers several line of watches to fit every lifestyle whether it&rsquo;s our own line of Murray watches made by Belair, or our Seiko and Reactor lines.</p>
+					<p>Murray Jewelry carries a wide selection of men&rsquo;s and women&rsquo;s watches including:</p>			
+					<ul>				
+					<li> <a href="/belair">Belair</a> 
+					</li>				
+					<li> <a href="/seiko">Seiko</a> 
+					</li>				
+					<li> <a href="/reactor">Reactor</a> 
+					</li>				
+					<li> <a href="/vintage-watches">Vintage Watches</a> 
+					</li>			
+					</ul>	
+					<p>Looking for something specific? Don&rsquo;t see it here? <a href="/contact-us">Contact us </a></p>
 			
 		<!-- Main Contents Ends -->
 		</div>

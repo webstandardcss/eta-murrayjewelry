@@ -5,7 +5,6 @@
 		<!-- Main Contents Starts -->
 			
 			<div class="text-center">
-				<img src="images/header3.jpg" class="img-responsive img-fix" />
 			</div>
 		
 			<h2 class="text-center">Early 1960&prime;s Blancpain Aqua Lung Military. 1700 cal. Rare and unusual!</h2>

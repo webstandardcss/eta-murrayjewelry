@@ -1,13 +1,28 @@
 <html>
 	<head>
 		<title>Murray Jewelery</title>
-		
+		<meta name="description" content="Local Jewelry for Longview & East Texas. Jud Murray, certified Gemologist by the American Gem Society">
+		<meta name="p:domain_verify" content="4d9f042c1ff98e778924f0ce18e1391f"/>
+		<meta name="keywords" content="Jewelry, Jewelry shop, Jewlery repair, watch repair, engagement ring">
+		<meta name="author" content="Jud Murray">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		<meta name="p:domain_verify" content="4d9f042c1ff98e778924f0ce18e1391f"/>		
 		<link rel="stylesheet" href="css/bootstrap.css" />
 		<link rel="stylesheet" href="css/bootstrap-theme.css" />
 		<link rel="stylesheet" href="css/font-awesome.min.css" />
 		<link rel="stylesheet" href="css/main-style.css" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js" /></script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47554477-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 		
 		<script>
 		$(document).ready(function() {
@@ -37,6 +52,19 @@
 			});
 		});
 		</script>
+		<script type="text/javascript">
+!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+
+pintrk('load','2618243687202');
+pintrk('page', {
+page_name: 'My Page',
+page_category: 'My Page Category'
+});
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=2618243687202&noscript=1" />
+</noscript>
 	</head>
 	
 	<body>
@@ -71,7 +99,7 @@
 
 											<p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
 											
-											<p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
+										
 
 										</div>
 									</div>
@@ -90,9 +118,6 @@
 											<p>Murray Jewelry performs AGS Certified services including appraisals and engravings.</p>
 
 											<p>We can perform two types of appraisals, Insurance Replacement Appraisals and Estate Appraisals.</p>
-											
-											<p>We provide engraving services for items purchased in our store. Other services include our Layaway program, Gift Certificate Purchase Option and Stone </p>
-            
             
 										</div>
 									</div>
@@ -111,7 +136,7 @@
 
 											<p>We make it easy for you to get that special item.</p>
 
-											<p>Layaway an item for up to One Year <a href="layaway">More info&hellip;</a></p>
+											<p>Layaway an item for up to One Year <a href="layaway.php">More info&hellip;</a></p>
 										</div>
 									</div>
 									</div>
@@ -125,10 +150,10 @@
 										<div class="col-sm-9">
 											<h1>Jewelry and Watch Repair</h1>
 
-											<p>Murray Jewelry performs nearly all repairs and stones settings in-house, with over 50 years of experience. We can provide you with a quote BEFORE the repair is started.</p>
+											<p>Murray Jewelry brings over 50 years of experience to meet your needs in all facets of jewelry repair &ndash; from sterling silver, gold and platinum to watch repair and gem-setting. We perform most repairs and stone-settings in-house and will provide you with a quote BEFORE the repair is started.</p>
 
 											<p>Your property is safe while in our care with state-of-the-art security, safes, locks and surveillance at our store location.</p>
-
+											
 											<p>Allen Wagner is our resident stone setter, and watch and jewelry technician. We provide all facets of jewelry repair, from sterling silver to platinum.</p>
 										</div>
 									</div>
@@ -150,40 +175,14 @@
 				<a href="https://www.facebook.com/murrayjewelrycompany" target="_blank"><img src="images/icon-fb.png" /></a>
 				<a href="https://twitter.com/MurrayJewelry" target="_blank"><img src="images/icon-tw.png" /></a>
 				<a href="https://www.youtube.com/watch?v=jPGJnK6MSZE" target="_blank"><img src="images/icon-u.png" /></a>
-				<a href="#" target="_blank"><img src="images/icon-pin.png" /></a>
+				<a href="https://www.pinterest.com/murrayjewelry/" target="_blank"><img src="images/icon-pin.png" /></a>
 			</article>
 		
 			<article class="logo col-sm-6">
 				<a href="index.php"><img src="images/logo.png" class="img-responsive" /></a>
 			</article>
 			
-			<article class="ad col-sm-3 text-center">
-				<!-- img src="images/rolex-img.png" /-->
-<div id="cobranding" style="position: relative; top: -12px; right:0 "></div>
-    
-<script src="https://binary.rolex.com/dealer/cobranding.js" type="text/javascript"></script>
-    
-<script type="text/javascript" charset="utf-8">
-    var rdp = new CoBranding();
-    var rdpConfig = {
-        dealerAPIKey: '5522dd97f381db8d6d4899054b7e79b7',
-        domain: 'www.murrayjewelry.com',
-        lang: 'en_jeweler',
-        shortLang: 'EN',
-        width: '125', 
-        height: '125', 
-        colour: 'white',
-        brand: 'rolex',
-        nw: '0',  
-        format: 'h'
-    }
-    try {
-        rdp.getCoBranding(rdpConfig,'plaque/validate_dealer.rlx');
-    } catch(err) {}
-</script>
-    
-			</article>
-			
+						
 			<div class="clearfix"></div>
 			
 			</section>
@@ -203,7 +202,6 @@
 						<div class="collapse navbar-collapse" id="myNavbar2">
 							<ul class="">
 								<li class="active"><a href="index">Home</a></li>
-								<li><a href="rolex">Rolex</a></li>
 								<li class="d"><a href="watches">Watches</a>
 									<div class="dropdown">
 										<ul>
@@ -220,11 +218,11 @@
 									<div class="dropdown">
 										<ul>
 											<li><a href="jewelry"><strong>Jewelry</strong></a></li>
-											<li><a href="bellari">Bellarri</a></li>
+											<li><a href="bellarri">Bellarri</a></li>
 											<li><a href="charles-krypell">Charles Krypell        </a></li>
 											<li><a href="costar-imports">Costar Imports          </a></li>
-											<li><a href="pandora-jewelry">Pandora Jewelry</a></li>
 											<li><a href="ziva-jewels">Ziva Jewels</a></li>
+											<li><a href="unavelo-bridal-line">Unavelo Bridal Line</a></li>
 										</ul>
 									</div>
 								</li> 
@@ -244,13 +242,12 @@
 									<div class="dropdown">
 										<ul>
 											<li><a href="about-us"><strong>About Us</strong></a></li>
-											<li><a href="location">Location</a></li>
-											<li><a href="site-map">Site Map</a></li>
-											<li><a href="contact-us">Contact Us</a></li>
+											<li><a href="location"><strong>Location</strong></a></li>
+											<li><a href="contact-us"><strong>Contact Us</strong></a></li>
 										</ul>
 									</div>
 								</li> 
-								<li><a href="/blog">News & Updates</a></li> 
+								<li><a href="http://murrayjewelry.com/blog/">News & Updates</a></li> 
 							</ul>
 						</div>
 					</div>

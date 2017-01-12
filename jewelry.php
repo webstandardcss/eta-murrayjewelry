@@ -5,21 +5,25 @@
 		<!-- Main Contents Starts -->
 			
 			<div class="text-center">
-				<img src="images/header3.jpg" class="img-responsive img-fix" />
+			
 			</div>
 		
 			<h2 class="text-center">Jewelry</h2>
 			
-			<p>Murray Jewelry would love the opportunity to guide you through the buying process and provide you very competitive pricing in a local setting.</p>
-
-			<p>As well, we carry an extensive selection of popular jewelry design lines, including:</p>
-			<ul class="narrow-list">
-				<li>Bellarri</li>
-				<li>Charles Krypell</li>
-				<li>Pandora Jewelry</li>
-				<li>Ziva Jewels</li>
+			<p>Murray Jewelry offers competitive pricing in a local setting. Let us guide you through the selection and purchase of your next investment in fine jewelry, gems or precious metals.</p><p>We carry an extensive selection of popular jewelry design lines, including:</p>
+			<ul>	
+			<li> <a href="/bellari">Bellarri</a>
+			</li>	
+			<li> <a href="/charles-krypell">Charles Krypell</a>
+			</li>	
+			<li> <a href="/costar-imports">Costar Imports</a>
+			</li>	
+			<li> <a href="/ziva-jewels">Ziva Jewels</a>
+			</li>
+			<li> <a href="/unavelo-bridal-line">Unavelo Bridal Line</a>
+			</li>
 			</ul>
-			
+			<p>Looking for something specific? Don&rsquo;t see it here? Contact us (link)</p>
 			<img src="images/Murray_Footer.jpg" class="img-responsive img-fix" />
 			
 		<!-- Main Contents Ends -->

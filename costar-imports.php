@@ -10,7 +10,7 @@
 		
 			<h2 class="text-center">Costar Imports</h2>
 			
-			<p>Costar Imports has been serving fine jewelry stores in the United States for 27 years. Combining decades of wholesale diamond experience with talented designers and expert manufacturing specialists, we bring you the latest in Bridal & Fashion Diamond Jewelry, all to the advantage of independent retailers across the U.S. Quality, Style, Superior Craftsmanship and Value are at the heart of all Costar products and our attitude to your success leads to an everlasting partnership. Build your new jewelry below!</p>
+			<p>Costar Imports has been serving fine jewelry stores in the United States for 27 years. Combining decades of wholesale diamond experience with talented designers and expert manufacturing specialists, we bring you the latest in Bridal & Fashion Diamond Jewelry, all to the advantage of independent retailers across the U.S. Quality, style, superior craftsmanship and value are at the heart of all Costar products and our attitude to your success leads to an everlasting partnership. Build your new jewelry below!</p>
 			
 			<div class="text-center">
 				<iframe width="940" height="600" src="http://www.costarimports.com/collection/"></iframe>

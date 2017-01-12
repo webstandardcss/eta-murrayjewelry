@@ -1,4 +1,4 @@
-DirectoryIndex splash.php splash.html index.php index.htm index.html
+DirectoryIndex index.php index.htm index.html
 
 RewriteEngine on 
 RewriteCond %{REQUEST_FILENAME} !-d 
