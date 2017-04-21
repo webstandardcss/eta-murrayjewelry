@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="css/bootstrap.css" />
 		<link rel="stylesheet" href="css/bootstrap-theme.css" />
 		<link rel="stylesheet" href="css/font-awesome.min.css" />
+		<link rel="stylesheet" href="js/swipebox-master/src/css/swipebox.css">
 		<link rel="stylesheet" href="css/main-style.css" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js" /></script>
@@ -61,10 +62,26 @@ page_name: 'My Page',
 page_category: 'My Page Category'
 });
 </script>
+<script async defer data-pin-hover="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
 <noscript>
 <img height="1" width="1" style="display:none;" alt=""
 src="https://ct.pinterest.com/v3/?tid=2618243687202&noscript=1" />
 </noscript>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1758661287741447'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1758661287741447&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 	</head>
 	
 	<body>
@@ -244,6 +261,7 @@ src="https://ct.pinterest.com/v3/?tid=2618243687202&noscript=1" />
 											<li><a href="about-us"><strong>About Us</strong></a></li>
 											<li><a href="location"><strong>Location</strong></a></li>
 											<li><a href="contact-us"><strong>Contact Us</strong></a></li>
+											<li><a href="gallery"><strong>Gallery</strong></a></li>
 										</ul>
 									</div>
 								</li> 

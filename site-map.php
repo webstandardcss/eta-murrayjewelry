@@ -24,6 +24,8 @@ We provide serives from our showroom location for your convenience&hellip;</p>
 Nearly all repairs are performed in-house&hellip;</p>
 <p><span style="text-decoration: underline;"><a href="http://murrayjewelry.com/?page_id=10">Our Layaway Option</a></span><br>
 We help you get that very special piece that you want&hellip;</p>
+<p><span style="text-decoration: underline;"><a href="http://murrayjewelry.com/gallery">Photo Gallery</a></span><br>
+You get see that very special piece here&hellip;</p>
 			
 			
 		<!-- Main Contents Ends -->

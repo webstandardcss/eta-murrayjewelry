@@ -57,6 +57,18 @@
 		
 		<!-- Footer Ends -->
 		</footer>
+
+<script src="js/swipebox-master/lib/jquery-2.1.0.js"></script>
+<script src="js/swipebox-master/src/js/jquery.swipebox.js"></script>
+
+<script type="text/javascript">
+;( function( $ ) {
+
+	$( '.galleryimage' ).swipebox();
+
+} )( jQuery );
+</script>
+
 		<script type="text/javascript">
 			!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
 
