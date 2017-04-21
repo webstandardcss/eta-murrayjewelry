@@ -1,5 +1,10 @@
 <?php include_once('header.php'); ?>
-		
+<script>
+fbq('track', 'ViewContent', {
+value: 3.50,
+currency: 'USD'
+});
+</script>		
 		<section class="main-contents container">
 		<div class="3">
 		<!-- Main Contents Starts -->

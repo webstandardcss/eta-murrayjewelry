@@ -1,5 +1,10 @@
 <?php include_once('header.php'); ?>
-		
+		<script>
+fbq('track', 'ViewContent', {
+value: 3.50,
+currency: 'USD'
+});
+</script>
 		<section class="main-contents container">
 		<div class="3">
 		<!-- Main Contents Starts -->
@@ -23,7 +28,7 @@
 			<li> <a href="/unavelo-bridal-line">Unavelo Bridal Line</a>
 			</li>
 			</ul>
-			<p>Looking for something specific? Don&rsquo;t see it here? Contact us (link)</p>
+			<p>Looking for something specific? Don&rsquo;t see it here? <a href="contact-us.php">Contact us</a></p>
 			<img src="images/Murray_Footer.jpg" class="img-responsive img-fix" />
 			
 		<!-- Main Contents Ends -->
