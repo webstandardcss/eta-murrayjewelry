@@ -50,8 +50,8 @@ License URI: LICENSE
 define('VERSION', '3.0.1');
 
 //Load a config file if it exists. Otherwise, use the values below
-if (file_exists(dirname(__FILE__) . '/mthumb-config.php')) {
-	require_once('mthumb-config.php');
+if (file_exists(dirname(__FILE__) . '/tn.config.php')) {
+	require_once('tn.config.php');
 }
 
 if (!defined('DEBUG_ON')) {
