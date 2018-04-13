@@ -1,10 +1,20 @@
 <?php include_once('header.php'); ?>
-<script>
-fbq('track', 'ViewContent', {
-value: 3.50,
-currency: 'USD'
-});
-</script>		
+<!-- Google Code for Contact Us page Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 842959329;
+var google_conversion_label = "xy2ZCIzf3HsQ4ZP6kQM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/842959329/?label=xy2ZCIzf3HsQ4ZP6kQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+		
 		<section class="main-contents container">
 		<div class="3">
 		<!-- Main Contents Starts -->
